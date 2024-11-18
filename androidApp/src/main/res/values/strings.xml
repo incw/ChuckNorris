@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facts">The Facts</string>
+    <string name="history_facts">History facts</string>
+    <string name="new_fact">New fact</string>
+    <string name="press_back">Press back</string>
+    <string name="error">Error, please try again</string>
+    <string name="empty_history">History is empty</string>
+</resources>
